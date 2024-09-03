@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @SzethSkybreaker
 - 👀 I love human languages as much as I love computer languages
-- 🌱 I’m currently learning CS400/ECE 252, and exploring Python personally
+- 🌱 I have a certificate in Computer Science and am pursuing a bachelors in Atmospheric Science
 - LinkedIn: https://www.linkedin.com/in/caleb-cullum-8224791ba/
 
 <!---
